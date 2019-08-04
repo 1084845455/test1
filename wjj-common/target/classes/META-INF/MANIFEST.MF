@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: wjj-common
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 金哥哥
+Implementation-Vendor-Id: com.wjj
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/wjj/wjj-common
+Created-By: Maven Integration for Eclipse
+
